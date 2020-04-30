@@ -1,0 +1,30 @@
+.card{
+    font-family: sans-serif;
+}
+
+.title {
+    font-family: sans-serif;
+    margin: 25px;
+    padding: 10px;
+}
+
+.pad {
+    padding: 10px;
+}
+
+
+.space {
+    margin: 25px;
+}
+
+.borders {
+    margin: 0px;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.button {
+ background-color: #8BC34A;
+}
